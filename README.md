@@ -34,6 +34,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Fills in their details (like name and email).
 - Selects a help topic (e.g., "report a problem").
 - Provides a summary and detailed description of the issue.
+<img width="963" height="451" alt="image" src="https://github.com/user-attachments/assets/fa2e0ad5-23c6-4766-af1a-6c87ed4ac5f4" />
+<img width="952" height="525" alt="image" src="https://github.com/user-attachments/assets/aac1eb57-ef87-43a7-b162-5869b6335695" />
+<img width="961" height="643" alt="image" src="https://github.com/user-attachments/assets/6e81c80f-f7b9-42e2-a2ce-ee3f116162d6" />
 
 </p>
 <p>
