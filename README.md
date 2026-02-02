@@ -63,9 +63,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+3. Ticket Assignment and Escalation:
+
+- The agent assigns the ticket to a specific team (e.g., "remote access team") or an individual.
+- Provides a reason for the assignment.
+- Updates the help topic to a more specific category if needed (e.g., "access issue").
+- Adds a comment about escalating or updating the help topic.
+
+<img width="880" height="442" alt="image" src="https://github.com/user-attachments/assets/0f81e030-3ba4-4d30-b0c6-f878a5d2f2df" />
+<img width="589" height="331" alt="image" src="https://github.com/user-attachments/assets/bad042b1-c6ce-4c60-9b27-52cf4a3cbe84" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
