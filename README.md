@@ -33,7 +33,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Start your VM if not already running.
 - Connect to Remote Desktop using your public IP address.
 - Copy and paste the password to log in.
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1313" height="423" alt="image" src="https://github.com/user-attachments/assets/4f0ac0a0-eade-4edc-b1a4-71e0e653bd43" />
+<img width="1076" height="485" alt="image" src="https://github.com/user-attachments/assets/786c91d9-ba60-4cdd-9b5c-44a250c42aff" />
+
 </p>
 <p>
 </p>
