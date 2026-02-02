@@ -44,13 +44,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-2. Accessing osTicket Admin Panel:
+2. Agent Receives and Triages Ticket:
 
-- Open Microsoft Edge.
-- Navigate to the osTicket admin login page.
-- Log in using 'password one' as the admin user.
-- Go to the admin panel.
-  
+- An agent logs into the admin panel.
+- Views the "open tickets" queue.
+- Clicks on the new ticket to open it.
+- Reads the issue details.
+- May adjust the SLA (Service Level Agreement) plan based on urgency.
+- Adds internal comments regarding the SLA change.
+<img width="1055" height="358" alt="image" src="https://github.com/user-attachments/assets/26bc78fe-a320-40e5-8c51-ed778fe56d22" />
+<img width="913" height="587" alt="image" src="https://github.com/user-attachments/assets/f708d951-645b-4e28-b778-8d3861a50c57" />
+<img width="558" height="214" alt="image" src="https://github.com/user-attachments/assets/7031c276-9cf2-4d6d-8a63-7c5c041b8fb3" />
+
 </p>
 <p>
 
