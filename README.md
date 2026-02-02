@@ -27,14 +27,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-  1. Logging into Microsoft Azure & Starting VM:
+  1. Ticket Creation by End-User
 
-- Log in to Microsoft Azure.
-- Start your VM if not already running.
-- Connect to Remote Desktop using your public IP address.
-- Copy and paste the password to log in.
-  <img width="1313" height="423" alt="image" src="https://github.com/user-attachments/assets/4f0ac0a0-eade-4edc-b1a4-71e0e653bd43" />
-<img width="1076" height="485" alt="image" src="https://github.com/user-attachments/assets/786c91d9-ba60-4cdd-9b5c-44a250c42aff" />
+- The end-user navigates to the OS ticket link.
+- Clicks "new ticket".
+- Fills in their details (like name and email).
+- Selects a help topic (e.g., "report a problem").
+- Provides a summary and detailed description of the issue.
 
 </p>
 <p>
