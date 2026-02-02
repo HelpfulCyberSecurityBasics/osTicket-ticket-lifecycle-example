@@ -78,3 +78,21 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <br />
+4. Issue Investigation and Resolution Efforts:
+
+- The assigned agent (e.g., Mark) logs in and reviews the ticket.
+- Investigates the issue (e.g., checks VPN firewall configuration).
+- Posts internal replies detailing findings and corrective actions taken.
+- Communicates updates to the end-user (if the reply is external).
+- Receives feedback from the end-user about the resolution.
+- Posts a final reply confirming the issue is resolved.
+</p>
+<p>
+
+</p>
+<br />
+5. Ticket Closure:
+
+- The agent changes the ticket status to "resolved".
+- Clicks "close" to finalize the ticket lifecycle.
+- The ticket is then removed from the open tickets list.
